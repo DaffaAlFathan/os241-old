@@ -1,0 +1,1 @@
+|| [LINKS](https://github.com/DaffaAlFathan/os241/blob/master/links.md) || [LOG](https://github.com/DaffaAlFathan/os241/blob/master/TXT/mylog.txt) || [GitHub](https://github.com/DaffaAlFathan/os241) ||
